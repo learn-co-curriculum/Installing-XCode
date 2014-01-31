@@ -1,3 +1,8 @@
+---
+  tags: xcode, command-line-tools, config
+  languages: 
+---
+
 Installing XCode with Command Line Tools (GCC)
 ================
 
