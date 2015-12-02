@@ -20,3 +20,5 @@ i686-apple-darwin11-llvm-gcc-4.2: no input files
 ```
 
 You're all set!
+
+<a href='https://learn.co/lessons/Installing-XCode' data-visibility='hidden'>View this lesson on Learn.co</a>
